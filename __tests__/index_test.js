@@ -1,4 +1,4 @@
-const fourLetterNumber = require('../index.js');
+const fourLetterNumber = require('../fourLetterNumber');
 
 it('For "auth" should be 5046', () => {
   expect(fourLetterNumber('auth')).toBe(5046);

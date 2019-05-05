@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/johndcarmichael/four-letter-number/issues"
   },
-  "homepage": "https://github.com/johndcarmichael/four-letter-number#readme"
+  "homepage": "https://github.com/johndcarmichael/four-letter-number#readme",
+  "typings": "index.d.ts"
 }
