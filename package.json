@@ -1,0 +1,25 @@
+{
+  "name": "four-letter-number",
+  "version": "0.0.1",
+  "description": "Converts a 4 letter string to a number and injects into a given thousand range, eg 5000",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndcarmichael/four-letter-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndcarmichael/four-letter-number/issues"
+  },
+  "homepage": "https://github.com/johndcarmichael/four-letter-number#readme"
+}
