@@ -1,8 +1,9 @@
 {
   "name": "four-letter-number",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Converts a 4 letter string to a number and injects into a given thousand range, eg 5000",
   "main": "index.js",
+  "typings": "index.d.ts",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^5.16.0",
@@ -21,6 +22,5 @@
   "bugs": {
     "url": "https://github.com/johndcarmichael/four-letter-number/issues"
   },
-  "homepage": "https://github.com/johndcarmichael/four-letter-number#readme",
-  "typings": "index.d.ts"
+  "homepage": "https://github.com/johndcarmichael/four-letter-number#readme"
 }

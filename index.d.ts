@@ -4,4 +4,4 @@
  * @param {number} [inRange] - The number the result should lay in, eg 7000 for 'auth' would result in 7046
  * @return {number}
  */
-export function fourLetterNumber(input: string, inRange?: number): number;
+export default function (input: string, inRange?: number): number;
